@@ -118,7 +118,10 @@ clasificador-vocales-ml/
 
 ## 👨‍💻 Autor
 
-**Joaquín Quilla**  
+**Josue Luis
+Melsin Orozco
+Miriram Barrios
+Luis Fernando velazquez**  
 Proyecto académico - Inteligencia Artificial  
 UDEO
 
