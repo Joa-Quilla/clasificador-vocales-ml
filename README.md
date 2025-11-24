@@ -120,7 +120,7 @@ clasificador-vocales-ml/
 
 **Joaquín Quilla**  
 Proyecto académico - Inteligencia Artificial  
-Universidad del Desarrollo Empresarial y Pedagógico
+UDEO
 
 ## 📄 Licencia
 
