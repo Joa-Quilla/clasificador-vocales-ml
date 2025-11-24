@@ -1,0 +1,54 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos temporales
+*.tmp
+*.bak
+*.swp
+*~
+
+# Modelos y datos grandes (opcional, descomentar si no quieres subir el modelo)
+# *.pkl
+
+# Scripts auxiliares de desarrollo
+convertir_jpg_a_png.py
+recortar_margenes.py
+recortar_vocales.py
+renombrar_secuencial.py
+renombrar_U.py
+revisar_imagen.py
+revision_imagen.png
