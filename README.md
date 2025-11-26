@@ -110,10 +110,10 @@ clasificador-vocales-ml/
 
 ## 👨‍💻 Autor
 
-**Josue Luis**
-**Melsin Orozco**
-**Miriram Barrios**
-**Luis Fernando velazquez**  
+## **Josue Luis**
+## **Melsin Orozco**
+## **Miriram Barrios**
+## **Luis Fernando velazquez**  
 Proyecto académico - Inteligencia Artificial  
 UDEO
 
