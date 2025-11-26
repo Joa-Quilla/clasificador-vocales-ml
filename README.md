@@ -56,9 +56,6 @@ clasificador-vocales-ml/
 ├── modelo_regresión_logística.pkl   # Modelo entrenado
 ├── etiquetas_nombres.pkl            # Mapeo de clases
 ├── requirements.txt                 # Dependencias del proyecto
-├── informe_tecnico.txt              # Documentación técnica detallada
-├── preguntas_presentacion.txt       # Q&A para defensa del proyecto
-├── explicacion_interfaz.txt         # Explicación del código de la interfaz
 ├── A/                               # 100 imágenes de vocal A
 ├── E/                               # 100 imágenes de vocal E
 ├── I/                               # 100 imágenes de vocal I
@@ -110,18 +107,13 @@ clasificador-vocales-ml/
 - **Gradio**: Interfaz web interactiva
 - **SciPy**: Transformaciones de imágenes
 
-## 📝 Documentación Adicional
-
-- `informe_tecnico.txt`: Comparación de modelos, selección de features y análisis de matriz de confusión
-- `preguntas_presentacion.txt`: 45 preguntas y respuestas para defensa del proyecto
-- `explicacion_interfaz.txt`: Explicación línea por línea del código de la interfaz
 
 ## 👨‍💻 Autor
 
-**Josue Luis
-Melsin Orozco
-Miriram Barrios
-Luis Fernando velazquez**  
+**Josue Luis**
+**Melsin Orozco**
+**Miriram Barrios**
+**Luis Fernando velazquez**  
 Proyecto académico - Inteligencia Artificial  
 UDEO
 
